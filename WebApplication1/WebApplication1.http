@@ -1,0 +1,5 @@
+﻿@WebApplication1_HostAddress = https://localhost:7148
+
+GET {{WebApplication1_HostAddress}}/home/index/{id}
+
+###
